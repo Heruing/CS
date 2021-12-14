@@ -12,7 +12,7 @@ CS 공부하기
 
 # PART 1. CS
 
-### 개발 상식
+### <a href="./PART1/Development_common_sense/">1. 개발 상식</a>
 
 
 
