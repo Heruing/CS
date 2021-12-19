@@ -14,6 +14,12 @@ CS 공부하기
 
 ### <a href="./PART1/Development_common_sense/">1. 개발 상식</a>
 
+#### <a href="./PART1/Development_common_sense/What_is_good_code">1.1. 좋은 코드란 무엇인가?</a>
+
+#### <a href="./PART1/Development_common_sense/Object_oriented_programming">1.2 객체 지향 프로그래밍이란?</a>
+
+
+
 
 
 
