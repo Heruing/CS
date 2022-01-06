@@ -22,6 +22,8 @@ CS 공부하기
 
 #### <a href="./PART1/Development_common_sense/What_is_TDD">1.4 TDD란 무엇인가?</a>
 
+#### <a href="./PART1/Development_common_sense/Functional_programming">1.5 함수형 프로그래밍</a>
+
 
 
 
