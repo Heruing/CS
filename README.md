@@ -1,12 +1,11 @@
-CS 공부하기
+## CS 공부하기
 
-<hr>
+주요 참고 사이트
+https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
-참고 사이트: https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+해당 자료는 위 사이트 자료 순서와 내용을 참고하여,
 
-해당 자료는 위 사이트 자료 순서와 내용을 참고하여, CS에 대한 지식 습득과 이해를 위해
-
-만들어진 사이트입니다.
+CS에 대한 지식 습득과 이해를 위해 만든 사이트입니다.
 
 <hr>
 
@@ -24,13 +23,5 @@ CS 공부하기
 
 #### <a href="./PART1/Development_common_sense/Functional_programming">1.5 함수형 프로그래밍</a>
 
-
-
-
-
-
-
-
-
-
+#### <a href="./PART1/Development_common_sense/MVC_Pattern">1.6 MVC</a>
 
