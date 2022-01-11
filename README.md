@@ -25,3 +25,6 @@ CS에 대한 지식 습득과 이해를 위해 만든 사이트입니다.
 
 #### <a href="./PART1/Development_common_sense/MVC_Pattern">1.6 MVC</a>
 
+### <a href="./PART1/DataStructure">2. 자료 구조</a>
+
+#### <a href="./PART1/DataStructure/Array_vs_LinkedList">2.1 Array vs Linked List</a>
